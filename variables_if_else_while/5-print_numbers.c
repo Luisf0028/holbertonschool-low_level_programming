@@ -14,7 +14,6 @@ int main(void)
 	{
 		printf("%d", y);
 	}
-	if (y = 9)
-		printf("\n");
+	printf("\n");
 	return (0);
 }
