@@ -12,11 +12,10 @@ int main(void)
 
 	for (y = 0; y < 10; y++)
 {
-	putchar(y);
+	printf("%d", y);
 	if (y < 9)
 {
-	putchar(',');
-	putchar(' ');
+	printf(", ");
 }
 }
 	putchar('\n');
