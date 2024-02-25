@@ -1,8 +1,11 @@
 #include "main.h"
 
-
 /**
- * _abs - Computers the absolute
+ * _abs - Computes the absolute value of an integer.
+ *
+ * @n: The integer for which to find the absolute value.
+ *
+ * Description: absolute value.
  *
  * Return: Absolute value
  */
